@@ -10,18 +10,15 @@ The conversion rate of cold calls is around 3%. This means that for every 100 co
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [Scheduling Calls with Predictive Modeling](#project)
+- [Scheduling Calls with Predictive Modeling](#scheduling-calls-with-predictive-modeling)
 - [Demo-Preview](#demo-preview)
-- [Problem Statement](#problem)
-- [Formulating Questions](#questions)
+- [Problem Statement](#problem-statement)
+- [Formulating Questions](#formulating-questions)
 - [Datasets](#datasets)
 - [Solution](#solution)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [Machine Learning System Design](#design)
-- [Navigating the Repo](#navigate)
+- [Machine Learning System Design](#machine-learning-system-design)
+- [Navigating the Repo](#navigating-the-repo)
 
-<a name="demo-preview"/>
 # Demo-Preview
 
 <img width="80%" src="demo/6senseUI.gif"/>
@@ -34,7 +31,6 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 [(Back to top)](#table-of-contents)
 
-<a name="problem"/>
 # Problem Statement
 Sales representatives have one goal: to peak a prospective lead's interest enough such that a sale or opportunity is generated. Time is money and cold calling might as well be throwing money in a firepit for the company and the sales representative who may rely on commission from selling products. 
 
@@ -44,7 +40,7 @@ The second problem is that even using an Excel sheet can become extremely convol
 
 [(Back to top)](#table-of-contents)
 
-<a name="questions"/>
+
 # Formulating Questions
 The problem with colding calling revolves around one core idea: EFFICIENCY. Cold calling has been proven to be extremely inefficient time and time again so the question then becomes: **How do we we make calls more efficient?**
 
@@ -54,7 +50,7 @@ We can then break this down into two further questions:
 
 [(Back to top)](#table-of-contents)
 
-<a name="datasets"/>
+
 # Datasets
 <ul>
 <li>calls.csv: a timeline of outgoing sales calls and the disposition of those calls</li>
@@ -66,7 +62,7 @@ We can then break this down into two further questions:
 
 [(Back to top)](#table-of-contents)
 
-<a name="solution"/>
+
 # Solution 
 #### A predictive platform that helps schedule the best time to call a prospective lead and suggests talking points
 
@@ -78,7 +74,7 @@ Knowing when to call and what to say will significantly increase efficiency and 
 
 [(Back to top)](#table-of-contents)
 
-<a name="design"/>
+
 # Machine Learning System Design
 <img width="100%" src="demo/MLsystem.png"/>
 
