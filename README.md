@@ -79,7 +79,7 @@ Knowing when to call and what to say will significantly increase efficiency and 
 
 [(Back to top)](#table-of-contents)
 
-<a name="navigate"/>
+
 # Navigating the Repo
 ### EDA
 This folder contains all the exploratory data analysis files and images. EDA was performed using Tableau and Matplotlib on the datasets from 6Sense. 
