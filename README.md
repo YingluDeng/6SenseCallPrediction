@@ -1,4 +1,3 @@
-<a name="project"/>
 # Scheduling Calls with Predictive Modeling
 :notes: Your phone rings.:notes: You see a number starting with 1-(800). What are the odds of you answering this call? 
 
