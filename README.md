@@ -21,7 +21,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 # Demo-Preview
 
-<img width="80%" src="demo/6senseUI.gif"/>
+<img width="70%" src="demo/6senseUI.gif"/>
 
 1. **Select file with contacts to call:** Select the CSV file which contains the list of contacts to call. The output is a dataframe sorted by the contact to prioritize, from highest priority to lowest priority. Each row in the dataframe contains the contact's ID, which day of week to call the contact, and the probability of a successful call. 
 
