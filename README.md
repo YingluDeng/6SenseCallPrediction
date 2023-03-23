@@ -1,5 +1,5 @@
 # Scheduling Calls with Predictive Modeling
-:notes: Your phone rings.:notes: You see a number starting with 1-(800). What are the odds of you answering this call? 
+:notes: Your phone rings.:notes: You see a number starting with 1-(800). What are the odds of you answering this call?   
 
 The conversion rate of cold calls is around 3%. This means that for every 100 cold calls a sales representative makes, 97 of these calls will be unanswered. Moreover, if a company has 20 sales representatives who each call 100 potential customers each day for a total of 2000 calls, only 60 of these calls will be answered. By Moore's Law, technology is advancing at an exponential rate while telemarketers are still using techniques from the 1900's to reach potential customers. It is time to evolve from this outdated methods of reaching customers and use the tools of the 21st century to make telemarketers' life easier and more engaging, as well as cater calls to those who might actually be interested, with predictive modeling. 
 
